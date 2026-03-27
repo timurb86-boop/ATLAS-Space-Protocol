@@ -5,6 +5,8 @@ Decentralized Space Generation Protocol. A dual-use active skin transforming spa
 **Author / Principal Architect:** Timur Bisembayev / Бисембаев Тимур (timur.b86@gmail.com, timur.b@list.ru, +998901856975)
 **Location:** Tashkent, Uzbekistan (Independent R&D)  
 
+![Atlas_space](https://github.com/user-attachments/assets/c4518d44-d211-4d2f-825b-9cb254dda2e3)
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 > 🌐 **Choose your language / Выберите язык:**
