@@ -17,7 +17,7 @@ Decentralized Space Generation Protocol. A dual-use active skin transforming spa
 
 ## <a name="english-version"></a> 🇬🇧 ENGLISH VERSION
 
-### EXECUTIVE SUMMARY
+## EXECUTIVE SUMMARY
 Traditional spacecraft rely on a fragmented architecture: heavy silicon solar arrays for power, passive dead-weight shielding for radiation, and bulky centralized thrusters for movement. The **ATLAS Space Protocol** introduces a paradigm shift: a monolithic, flexible structural skin. By utilizing a Low-Z carbon lattice (3D-LIG) and perovskite heterostructures, ATLAS transforms the entire spacecraft hull into a 4-in-1 system: an immortal distributed power source, an active radiation shield, a thermal radiator, and a **distributed electromagnetic propulsion array**. The ship no longer carries an engine; the ship *is* the engine.
 ---
 
